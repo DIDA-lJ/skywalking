@@ -12,6 +12,8 @@ The Eclipse Checkstyle Plug-in has not been installed.
 
 ### Resolution
 Download the plug-in at the link here: https://sourceforge.net/projects/eclipse-cs/?source=typ_redirect 
+
 Eclipse Checkstyle Plug-in version 8.7.0.201801131309 is required.
+
 Plug-in notification:
 The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user on rule violations, including checking against coding style and error-prone code constructs.
