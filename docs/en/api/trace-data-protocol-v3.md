@@ -1,5 +1,5 @@
 # Trace Data Protocol
-* Version,  v3.1
+* Version 3.1
 
 Trace Data Protocol describes the data format between SkyWalking agent/sniffer and backend. 
 
